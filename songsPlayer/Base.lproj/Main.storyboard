@@ -101,7 +101,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LBn-w9-4l7">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
-                                <state key="normal" title="Random"/>
+                                <state key="normal" title="Shuffle"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="294" y="566" width="59" height="30"/>
                                 </variation>

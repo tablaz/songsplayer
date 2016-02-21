@@ -73,6 +73,7 @@ class ViewController: UIViewController , UIPickerViewDelegate, UIPickerViewDataS
         // Process Book Cover
         let imageUrls = "\(sData[2]).jpg"
         self.coverImage.image = UIImage(named: imageUrls)
+        self.playSong()
     }
     
     @IBAction func playSong() {
